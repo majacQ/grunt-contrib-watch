@@ -16,7 +16,7 @@
     "test": "grunt test -v"
   },
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^3.2.2",
     "gaze": "^1.1.0",
     "lodash": "^4.17.10",
     "tiny-lr": "^1.1.1"
